@@ -17,8 +17,13 @@ Continue Watching Section: Allows users to resume watching their previously play
 
 Navigation Bar: A bottom navigation bar for easy access to Home, Downloads, and other app features.
 
+
+
+
 Technologies Used
+
 Flutter Framework: 
+
 For building a cross-platform, responsive, and interactive UI.
 
 Dart Programming Language: For implementing functionality and interactions.
