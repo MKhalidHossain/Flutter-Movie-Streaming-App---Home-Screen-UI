@@ -5,7 +5,7 @@ This is the Home Screen UI of a movie streaming app, built using Flutter. The de
 Features
 User Greeting: 
 
-Displays a personalized greeting for the user at the top.
+Displays a personalized greeting for the user at the top. 
 Search Functionality: Includes a search bar to help users find their desired content quickly.
 Categories: Organized buttons for filtering movies by genres like Action, Anime, Sci-fi, etc.
 Trending Movies Carousel: Highlights popular or trending movies in an interactive carousel format.
