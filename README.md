@@ -12,18 +12,18 @@ Trending Movies Carousel: Highlights popular or trending movies in an interactiv
 Continue Watching Section: Allows users to resume watching their previously played movies or series.  
 Navigation Bar: A bottom navigation bar for easy access to Home, Downloads, and other app features.  
   
-**Technologies Used**
-**Flutter Framework**: 
+**Technologies Used**  
+**Flutter Framework**:   
 For building a cross-platform, responsive, and interactive UI.  
 Dart Programming Language: For implementing functionality and interactions.  
 This UI is designed with a focus on user experience and aesthetic appeal, making it a perfect starting point for a full-featured streaming app.  
 
-**Output**
-This output show in emulator.
-*Screnshort*:
-![Screenshot_20250107_234751](https://github.com/user-attachments/assets/727a5629-48d8-4786-9197-f8584ae04b74)
-*Vedio*:
-https://github.com/user-attachments/assets/5914c664-6153-4d60-8e2b-2ba7f500844f
+**Output**  
+This output show in emulator.  
+*Screnshort*:  
+![Screenshot_20250107_234751](https://github.com/user-attachments/assets/727a5629-48d8-4786-9197-f8584ae04b74)  
+*Vedio*:  
+https://github.com/user-attachments/assets/5914c664-6153-4d60-8e2b-2ba7f500844f  
 
 
 
