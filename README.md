@@ -22,7 +22,7 @@ This UI is designed with a focus on user experience and aesthetic appeal, making
 This output show in emulator.  
 *Screnshort*:  
 ![Screenshot_20250107_234751](https://github.com/user-attachments/assets/727a5629-48d8-4786-9197-f8584ae04b74)  
-*Vedio*:  
+*Screen Vedio*:  
 https://github.com/user-attachments/assets/5914c664-6153-4d60-8e2b-2ba7f500844f  
 
 
