@@ -1,6 +1,6 @@
 Flutter Movie Streaming App - Home Screen UI  
 ===
-This is the Home Screen UI of a movie streaming app, built using Flutter. The design provides an intuitive and visually appealing interface for users to explore various movie categories, trending content, and their "Continue Watching" list.
+***This is the Home Screen UI of a movie streaming app, built using Flutter. The design provides an intuitive and visually appealing interface for users to explore various movie categories, trending content, and their "Continue Watching" list.***
 
 Features
 User Greeting: 
